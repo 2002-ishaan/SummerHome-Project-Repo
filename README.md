@@ -180,7 +180,7 @@ Output **only JSON** (no extra text or explanation).
 ## 🧑‍💻 Usage (Easy Peasy)
 
 ### What you need first
-- A Mac with Python 3.8+ installed.
+- Python 3.8+ installed.
 - The project folder on your computer.
 - An LLM API key (`LLM_API_KEY`).
 
