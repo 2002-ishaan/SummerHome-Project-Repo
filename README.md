@@ -84,7 +84,7 @@ Follow these steps to get GoVacay running locally:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/SummerHome-Project-Repo.git
+git clone https://github.com/yourusername/SummerHomeRecommender_LLM_Team2
 cd SummerHome-Project-Repo
 ```
 
