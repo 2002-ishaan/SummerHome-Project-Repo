@@ -237,3 +237,23 @@ LLM_SummerHome_Recommender/
 ├── config.py          # Configurations & API keys
 └── README.md          # Documentation
 ```
+---
+
+## References
+
+Inside Airbnb. (2025). Toronto, Ontario, Canada [Data set].
+https://insideairbnb.com/get-the-data/
+
+Mistral AI. (2025). Mistral-7B Instruct [Large language model]. 
+https://openrouter.ai/mistralai/mistral-7b-instruct:free
+
+OpenAI. (2025). ChatGPT (Aug 22 version) [Large language model]. 
+https://chat.openai.com/chat
+
+Pallets Projects. (2025, August 15). Flask documentation (3.1.x). 
+https://flask.palletsprojects.com/en/stable/
+
+Real Python. (2025, August 20). Working with JSON data in Python. 
+https://realpython.com/python-json/
+
+
