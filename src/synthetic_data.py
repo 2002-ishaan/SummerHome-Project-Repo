@@ -4,6 +4,7 @@ import requests
 import re
 
 # Import configuration variables for file paths and model name
+# Config File is Obviously not present here - Please import your own api key and paths. Thanks!
 from config import (
     MODEL,
     SYNTHETIC_LISTING_CSV_PATH,
