@@ -6,17 +6,19 @@ Your AI Travel Concierge — curating stays as if you had a personal agent, 24/7
 [![Pandas](https://img.shields.io/badge/Data-Pandas-150458?logo=pandas)](https://pandas.pydata.org/)  
 [![LLM Enabled](https://img.shields.io/badge/LLM-Integration-ff69b4?logo=openai)](https://openrouter.ai/)  
 [![OpenRouter](https://img.shields.io/badge/API-OpenRouter-8A2BE2)](https://openrouter.ai/)  
+[![Flask](https://img.shields.io/badge/Web-Flask-000000?logo=flask)](https://flask.palletsprojects.com/)
+
 
 ---
 
 ## 🎬 Project Preview
 
-![GoVacay CLI Demo](CLI Version/assets/GoVacay.png)  
+![GoVacay CLI Demo](assets/GoVacay.png)  
 > A quick look at GoVacay in action from the CLI.
 
 ---
 
-![GoVacay LLM Preview](CLI Version/assets/LLM.png)  
+![GoVacay LLM Preview](assets/LLM.png)  
 > A quick look at LLM Synthetic Data Generation from the CLI.
 
 ---
@@ -235,3 +237,23 @@ LLM_SummerHome_Recommender/
 ├── config.py          # Configurations & API keys
 └── README.md          # Documentation
 ```
+---
+
+## References
+
+Inside Airbnb. (2025). Toronto, Ontario, Canada [Data set].
+https://insideairbnb.com/get-the-data/
+
+Mistral AI. (2025). Mistral-7B Instruct [Large language model]. 
+https://openrouter.ai/mistralai/mistral-7b-instruct:free
+
+OpenAI. (2025). ChatGPT (Aug 22 version) [Large language model]. 
+https://chat.openai.com/chat
+
+Pallets Projects. (2025, August 15). Flask documentation (3.1.x). 
+https://flask.palletsprojects.com/en/stable/
+
+Real Python. (2025, August 20). Working with JSON data in Python. 
+https://realpython.com/python-json/
+
+
