@@ -176,7 +176,7 @@ Output **only JSON** (no extra text or explanation).
 ```
 ---
 
-## 🧑‍💻 Usage (easy steps — for a 10th grader)
+## 🧑‍💻 Usage (Easy Peasy)
 
 ### What you need first
 - A Mac with Python 3.8+ installed.
