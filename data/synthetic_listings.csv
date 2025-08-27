@@ -1,0 +1,11 @@
+name,location,property_type,accommodates,amenities,price,min_nights,max_nights,review_rating,tags
+Lakeview Lodge,"Toronto, ON",Entire Condo,4,"Wifi, TV, Air Conditioning, Balcony, Kitchen, Parking",499,2,7,4.8,"Lake View, Toronto, Modern"
+Riverfront Retreat,"Ottawa, ON",Entire Rental Unit,2,"Wifi, TV, Heating, River View, Kitchen, Free Parking",485,3,5,4.9,"River View, Ottawa, Cozy"
+Niagara Falls Penthouse,"Niagara Falls, ON",Entire Apartment,2,"Wifi, TV, Balcony, Kitchen, Gym, Pool",495,2,7,4.7,"Niagara Falls, Penthouse, Luxury"
+Muskoka Cottage Charm,"Muskoka, ON",Entire Rental Unit,6,"Wifi, TV, Fireplace, Lake Access, Grill, Parking",490,4,10,4.6,"Muskoka, Cottage, Lake Access"
+Cobourg Beachfront Hideaway,"Cobourg, ON",Entire Condo,3,"Wifi, TV, Balcony, Kitchen, Beach Access, Parking",498,2,7,4.9,"Beachfront, Cobourg, Modern"
+Kingston Historic Loft,"Kingston, ON",Entire Apartment,2,"Wifi, TV, Heating, Historic Site, Kitchen, Free Parking",496,3,5,4.8,"Kingston, Historic, Loft"
+Algonquin Wilderness Retreat,"Algonquin Park, ON",Entire Cabin,6,"Wifi, TV, Fireplace, Forest View, Grill, Parking",490,3,7,4.7,"Algonquin Park, Wilderness, Cabin"
+Collingwood Lakehouse Escape,"Collingwood, ON",Entire House,8,"Wifi, TV, Air Conditioning, Lake View, Grill, Parking",495,5,10,4.6,"Collingwood, Lakehouse, Family-friendly"
+Stratford Theatre Suite,"Stratford, ON",Entire Condo,2,"Wifi, TV, Theatre District, Kitchen, Parking",499,2,4,4.8,"Stratford, Theatre, Romantic"
+Hamilton City Centre Hideaway,"Hamilton, ON",Entire Apartment,2,"Wifi, TV, City View, Kitchen, Parking",495,2,7,4.7,"Hamilton, City Centre, Urban"

@@ -1,0 +1,106 @@
+[
+    {
+        "user_id": "41b9ba3f-72ff-4cd3-a705-e1a7d559555e",
+        "name": "Ishaan Dawra",
+        "group_size": 3,
+        "preferred_environment": "luxury",
+        "budget_min": 300.0,
+        "budget_max": 1000.0
+    },
+    {
+        "user_id": "fb79fd0d-34d5-4d5b-846f-2554f973a68f",
+        "name": "Alice",
+        "group_size": 2,
+        "preferred_environment": "luxury",
+        "budget_min": 200.0,
+        "budget_max": 1000.0
+    },
+    {
+        "user_id": "4b4a5fdc-40e8-4766-8837-05352fcdd5c3",
+        "name": "Rahul",
+        "group_size": 3,
+        "preferred_environment": "cozy",
+        "budget_min": 100.0,
+        "budget_max": 400.0
+    },
+    {
+        "user_id": "3a95cb82-796c-4343-a52a-0974455882c8",
+        "name": "Raj",
+        "group_size": 3,
+        "preferred_environment": "cozy",
+        "budget_min": 200.0,
+        "budget_max": 600.0
+    },
+    {
+        "user_id": "7e7d2a28-9416-4202-a22b-e0d381f2b7d3",
+        "name": "Sarthak",
+        "group_size": 2,
+        "preferred_environment": "modern",
+        "budget_min": 100.0,
+        "budget_max": 1000.0
+    },
+    {
+        "user_id": "d513940b-dba1-408a-9fdb-ade80bdc3873",
+        "name": "Manav",
+        "group_size": 1,
+        "preferred_environment": "condo",
+        "budget_min": 100.0,
+        "budget_max": 300.0
+    },
+    {
+        "user_id": "a5c42267-02c2-45a0-8418-611ceb48e428",
+        "name": "Cathy",
+        "group_size": 2,
+        "preferred_environment": "beaches",
+        "budget_min": 200.0,
+        "budget_max": 1000.0
+    },
+    {
+        "user_id": "79fb6d3a-d88d-4520-a319-b528d1a912a0",
+        "name": "Rajeev",
+        "group_size": 4,
+        "preferred_environment": "lakeview",
+        "budget_min": 200.0,
+        "budget_max": 1500.0
+    },
+    {
+        "user_id": "5ed20f75-08c7-4a68-85c7-a9c7b8369d80",
+        "name": "Lynna",
+        "group_size": 2,
+        "preferred_environment": "mountains",
+        "budget_min": 200.0,
+        "budget_max": 600.0
+    },
+    {
+        "user_id": "604d5fac-9211-43f5-b1fd-84bdd1533bdb",
+        "name": "Audrey",
+        "group_size": 4,
+        "preferred_environment": "lake",
+        "budget_min": 250.0,
+        "budget_max": 660.0
+    },
+    {
+        "user_id": "188823c6-c477-44be-b769-cd3371e5137b",
+        "name": "Monica",
+        "group_size": 2,
+        "preferred_environment": "cozy",
+        "budget_min": 100.0,
+        "budget_max": 500.0
+    },
+    {
+        "user_id": "df4ccb6b-9a62-4948-b309-b5dd01f130df",
+        "name": "Arik",
+        "group_size": 3,
+        "preferred_environment": "beach",
+        "budget_min": 200.0,
+        "budget_max": 350.0
+    },
+    {
+        "user_id": "76970499-9e53-4b7b-bac5-2063204458e6",
+        "name": "Ross",
+        "group_size": 4,
+        "preferred_environment": "lake",
+        "budget_min": 250.0,
+        "budget_max": 500.0
+    }
+]

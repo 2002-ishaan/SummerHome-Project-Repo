@@ -1,0 +1,23 @@
+[
+    {
+        "booking_id": 1,
+        "user_id": "41b9ba3f-72ff-4cd3-a705-e1a7d559555e",
+        "listing_id": 69,
+        "check_in": "2025-08-23",
+        "check_out": "2025-08-29"
+    },
+    {
+        "booking_id": 2,
+        "user_id": "3a95cb82-796c-4343-a52a-0974455882c8",
+        "listing_id": 203,
+        "check_in": "2025-08-19",
+        "check_out": "2025-08-25"
+    },
+    {
+        "booking_id": 3,
+        "user_id": "7e7d2a28-9416-4202-a22b-e0d381f2b7d3",
+        "listing_id": 54,
+        "check_in": "2025-08-20",
+        "check_out": "2025-08-25"
+    }
+]
