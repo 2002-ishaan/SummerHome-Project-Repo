@@ -139,6 +139,7 @@ python3 src/app.py
 
 ## 📖 Usage Example
 
+**LLM Prompt (You can customise)**
 ```bash
 Generate 10 fake property listings in Ontario under $500/night. 
 Output as a JSON array of objects. Each object must have the following fields exactly as in my CSV:
