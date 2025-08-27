@@ -11,12 +11,12 @@ Your AI Travel Concierge — curating stays as if you had a personal agent, 24/7
 
 ## 🎬 Project Preview
 
-![GoVacay CLI Demo](assets/GoVacay.png)  
+![GoVacay CLI Demo](CLI Version/assets/GoVacay.png)  
 > A quick look at GoVacay in action from the CLI.
 
 ---
 
-![GoVacay LLM Preview](assets/LLM.png)  
+![GoVacay LLM Preview](CLI Version/assets/LLM.png)  
 > A quick look at LLM Synthetic Data Generation from the CLI.
 
 ---
