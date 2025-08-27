@@ -174,6 +174,54 @@ Output **only JSON** (no extra text or explanation).
     "tags": "city center, apartment, Ottawa"
   }
 ```
+---
+
+## 🧑‍💻 Usage (easy steps — for a 10th grader)
+
+### What you need first
+- A Mac with Python 3.8+ installed.
+- The project folder on your computer.
+- An LLM API key (`LLM_API_KEY`).
+
+### 1) Open Terminal and get the project
+```bash
+git clone https://github.com/yourusername/LLM_SummerHome_Recommender.git
+cd LLM_SummerHome_Recommender
+```
+
+### 2) Make a Python virtual environment and install packages
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+mkdir -p data
+```
+
+### 3) Set your LLM API key
+```bash
+export LLM_API_KEY="your-llm-api-key-here"
+```
+
+### 4) Point the app to your dataset
+Open `src/config.py` and ensure CSV paths match files in `data/`.
+
+### 5) Run the app
+```bash
+python3 src/app.py
+```
+
+### 6) Quick interactive guide
+- Create/select user → secret ID saved on Desktop.  
+- Use Listings Menu to view, filter, favorite, generate, or book listings.  
+- Example flow: create user → view 5 listings → favorite → get 3 recommendations → book listing.
+
+### 7) Stopping the app
+- Pick "2. Exit" in menu or Ctrl+C in terminal.
+
+### Troubleshooting
+- Listings don’t show: check `data/cleaned_listings.csv`.  
+- LLM generation fails: confirm API key is set.  
+- Lost User ID: create new user (new secret ID saved).
 
 ---
 
