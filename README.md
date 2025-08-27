@@ -6,6 +6,8 @@ Your AI Travel Concierge — curating stays as if you had a personal agent, 24/7
 [![Pandas](https://img.shields.io/badge/Data-Pandas-150458?logo=pandas)](https://pandas.pydata.org/)  
 [![LLM Enabled](https://img.shields.io/badge/LLM-Integration-ff69b4?logo=openai)](https://openrouter.ai/)  
 [![OpenRouter](https://img.shields.io/badge/API-OpenRouter-8A2BE2)](https://openrouter.ai/)  
+[![Flask](https://img.shields.io/badge/Web-Flask-000000?logo=flask)](https://flask.palletsprojects.com/)
+
 
 ---
 
