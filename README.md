@@ -1,5 +1,5 @@
 
-# GoVacay 🏖️  
+# GoVacay 
 Your AI Travel Concierge — curating stays as if you had a personal agent, 24/7.
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://python.org)  
@@ -21,13 +21,13 @@ Your AI Travel Concierge — curating stays as if you had a personal agent, 24/7
 
 ---
 
-## 🌟 Overview
+## Overview
 
 GoVacay is an AI-powered vacation recommender built on advanced language models (LLMs). It helps travelers find the perfect stay by understanding their preferences, budget, and travel dates. Just tell GoVacay what kind of trip you’re looking for, and it will deliver personalized, curated listings—making vacation planning as smooth and enjoyable as the getaway itself.
 
 ---
 
-## 📝 Problem Statement
+## Problem Statement
 
 Travelers often spend hours manually searching and comparing vacation rentals across multiple platforms. This leads to decision fatigue, inconsistent results, and wasted time. GoVacay addresses this by:  
 - Generating personalized recommendations instantly using Vectorized Recommender System. 
@@ -37,7 +37,7 @@ Travelers often spend hours manually searching and comparing vacation rentals ac
 ---
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python 3.8+**  
 - **Pandas** – Data manipulation  
@@ -58,7 +58,7 @@ Travelers often spend hours manually searching and comparing vacation rentals ac
 
 ---
 
-## ✨ Features
+## Key Features
 
 - **Personalized Suggestions** – GoVacay understands your likes and finds the best matches.  
 - **Budget-Aware Search** – Filter results by price range to stay within your budget.  
@@ -70,7 +70,7 @@ Travelers often spend hours manually searching and comparing vacation rentals ac
 
 ---
 
-## 📊 Performance & Metrics
+## Performance & Metrics
 
 - Average LLM response time for 10 listings: **< 15 seconds**  
 - Supports datasets of **10k+ listings** efficiently  
@@ -78,7 +78,7 @@ Travelers often spend hours manually searching and comparing vacation rentals ac
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 Follow these steps to get GoVacay running locally:
 
@@ -225,7 +225,7 @@ python3 src/app.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 LLM_SummerHome_Recommender/
